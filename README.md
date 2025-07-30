@@ -44,6 +44,8 @@ This is my **first cloud project** where I learned how to host a **static websit
 
 ## 📂 Repository Structure
 
-```index.html # Main webpage
+``` index.html # Main webpage
+```style.css # Styling and design
+```script.js # Interactive functions (WhatsApp, LinkedIn, clock)
 
 
