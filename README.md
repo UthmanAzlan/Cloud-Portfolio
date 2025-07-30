@@ -44,6 +44,7 @@ This is my **first cloud project** where I learned how to host a **static websit
 
 ## 📂 Repository Structure
 
+my-portfolio/
 ```
 index.html # Main webpage
 style.css # Styling and design
